@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sarathkumarsiraparapu
-- 👀 I’m interested in contributing to open source projects.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on projects related to python.
+- 👋 Hi, I’m @sarath_kumar_siraparapu
+- 👀  interested in contributing to open source projects.
+- 🌱  currently learning python.
+- 💞️  looking to collaborate on projects related to python.
 - 📫 How to reach me ... shoot me a mail via sarathsiraparapu@gamil.com
 
 <!---
