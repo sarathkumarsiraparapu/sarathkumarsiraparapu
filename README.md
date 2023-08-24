@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarath_kumar_siraparapu
 - 👀  interested in contributing to open source projects.
 - 🌱  currently learning Web Development.
-- 💞️  looking to collaborate on projects related to Web development, Java, Javscript, python.
+- 💞️  looking to collaborate on projects related to Web development, Javscript, python, Go.
 - 📫 How to reach me ... shoot me a mail via sarathsiraparapu@gamil.com
 
 <!---
