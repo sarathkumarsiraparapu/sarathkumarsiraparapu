@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sarath_kumar_siraparapu
+- 👋 Hi, I’m Sarath_Kumar_Siraparapu
 - 👀  interested in contributing to open source projects.
-- 🌱  currently learning Web Development.
-- 💞️  looking to collaborate on projects related to Web development, Javscript, python, Go.
-- 📫 How to reach me ... shoot me a mail via sarathsiraparapu@gamil.com
+- 🌱  Currently learning Web Development.
+- 💞️  looking to collaborate on projects related to Java, Web development, Javascript, and Python.
+- 📫 How to reach me ... shoot me an email via sarathsiraparapu@gamil.com
 
 <!---
 sarathkumarsiraparapu/sarathkumarsiraparapu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
