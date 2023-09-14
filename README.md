@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sarath_Kumar_Siraparapu
 - 👀  interested in contributing to open source projects.
-- 🌱  Currently learning Web Development.
+- 🌱  Currently learning Web Development with Java.
 - 💞️  looking to collaborate on projects related to Java, Web development, Javascript, and Python.
 - 📫 How to reach me ... shoot me an email via sarathsiraparapu@gamil.com
 
